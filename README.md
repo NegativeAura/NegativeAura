@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NegativeAura
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning C# 
-- 💞️ I’m looking to collaborate on Game design
+- 🌱 I’m currently learning Front End
+- 💞️ I’m looking to collaborate on Front End development
 - 📫 How to reach me konradc619@wp.pl
 
 <!---
